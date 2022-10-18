@@ -3,7 +3,7 @@ My first 3D Game.
 In this game a 3D box will run and collect boxes of the same type.
 If you will collide with any other object, then... Boom... Game Over.
 Click anywhere on the screen to pause/restart the game.
-In this game I've used some fog codes to create a little suspense of future steps.
+In this game I've used some fog codes to create a little suspense of the future steps.
 The game is in building phase and is out for trial only.
 Steps to download the game-
 1- Click on link and click on view code under main branch.
