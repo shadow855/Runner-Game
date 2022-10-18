@@ -1,5 +1,6 @@
 # Runner-Game
 My first 3D Game.
+Well this game was made a month ago, but I had some issues, so I am uploading it today.
 In this game a 3D box will run and collect boxes of the same type.
 If you will collide with any other object, then... Boom... Game Over.
 Click anywhere on the screen to pause/restart the game.
