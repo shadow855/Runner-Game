@@ -10,7 +10,7 @@ Steps to download the game-
 
 ![1](https://user-images.githubusercontent.com/82103149/196495319-1a2c11b0-e593-48be-8029-b861803b9578.png)
 2- Click on Cube Runner.exe file.
-3- Click on download button.
+3- Click on the 3 dots in the raw option and then click on the download button.
 
 ![2](https://user-images.githubusercontent.com/82103149/196495664-1d6f9d59-5e9e-49de-87e4-2fbb8d422c3d.png)
 4- Pass all the Google and Microsoft security checks and install the game.
